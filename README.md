@@ -14,13 +14,13 @@ Note: The program is supplied with a toy.xml file to perform the task. However, 
 
 
 # Developer Guide to run the code locally
-==== `git clone https://github.com/kalyansagi/neo4j-data-load.git`
+- `git clone https://github.com/kalyansagi/neo4j-data-load.git`
 
-==== `cd /neo4j-data-load`
+- `cd /neo4j-data-load`
 
-==== `git checkout main`
+- `git checkout main`
 
-==== Simply run the Scala class file on main method.
+# Simply run the Scala class file on main method.
 PubMedConversion.main()
 
 Note: Leave a comment if you have any questions.
